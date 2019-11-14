@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ITSTechGruppo3/EsercitazioneGruppo2/_apis/build/status/Esercizio%201/Esercizio%201.c%20Dotnet%20%E2%80%93%20aspnet%20%E2%80%93%20mssqldb?branchName=master)](https://dev.azure.com/ITSTechGruppo3/EsercitazioneGruppo2/_build/latest?definitionId=6&branchName=master)
+
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
 | ASP.NET | .NET Framework | Azure Web App, Virtual Machine| |
