@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ITSTechGruppo3/EsercitazioneGruppo2/_apis/build/status/Esercizio%204/Esercizio%204%20PHP?branchName=master)](https://dev.azure.com/ITSTechGruppo3/EsercitazioneGruppo2/_build/latest?definitionId=17&branchName=master)
+
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
 | PHP |  | Azure Web App, Virtual Machine| |
