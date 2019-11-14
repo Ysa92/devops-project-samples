@@ -9,7 +9,7 @@ trigger:
       - master
   paths:
     include:
-      - html/webapp/*
+      - html/webapp/Application/*
 
 pool:
   vmImage: 'windows-latest'
