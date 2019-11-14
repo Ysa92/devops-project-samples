@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ITSTechGruppo3/EsercitazioneGruppo2/_apis/build/status/Esercizio2/Esercizio%202c%20Webapp?branchName=master)](https://dev.azure.com/ITSTechGruppo3/EsercitazioneGruppo2/_build/latest?definitionId=10&branchName=master)
+
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
 | ASP.NET Core | .NET Core 1.1 | Azure Web App, Virtual Machines |
