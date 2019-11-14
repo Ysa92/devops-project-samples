@@ -9,9 +9,9 @@ trigger:
       - master
   paths:
     include:
-      - devops-project-samples/python/*
+      - python/simple/functionApp/Application*
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'windows-latest'
 strategy:
   matrix:
     Python27:
@@ -33,8 +33,83 @@ steps:
     python -m pip install --upgrade pip
     pip install -r requirements.txt
   displayName: 'Install dependencies'
+  workingDirectory: "python/simple/functionApp/Application"
 
-- script: |
-    pip install pytest pytest-azurepipelines
-    pytest
-  displayName: 'pytest'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
