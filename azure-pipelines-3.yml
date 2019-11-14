@@ -15,7 +15,7 @@ pool:
   vmImage: 'vs2017'
 
 variables:
-  solution: 'dotnet/aspnetcore/webappWithTests/*.sln'
+  solution: 'dotnet/aspnetcore/webappWithTests/Application/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
