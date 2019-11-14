@@ -13,7 +13,7 @@ trigger:
 
 
 pool:
-  vmImage: 'vs17'
+  vmImage: 'vs2017'
 
 variables:
   solution: 'dotnet/aspnetcore/webapp/Application/*.sln'
