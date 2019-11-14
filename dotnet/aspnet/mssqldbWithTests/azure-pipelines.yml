@@ -40,9 +40,7 @@ steps:
       **\*test*.dll
       !**\*TestAdapter.dll
       !**\obj\**
-    searchFolder: 'dotnet/aspnet/mssqldbWithTests/SampleWebApplication.UnitTests/'
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
+    searchFolder: '$(System.DefaultWorkingDirectory)/dotnet/aspnet/mssqldbWithTests/Application/SampleWebApplication.UnitTests/'
 
 - task: PublishBuildArtifacts@1
   inputs:
