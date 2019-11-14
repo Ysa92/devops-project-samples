@@ -11,7 +11,7 @@ trigger:
    include:
      - dotnet/aspnetcore/functionApp/*
 pool:
-  vmImage: 'windows-latest'
+  vmImage: 'VS2017'
 
 variables:
   solution: 'dotnet/aspnetcore/functionApp/Application/*.sln'
