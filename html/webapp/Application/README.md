@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/ITSTechGruppo3/EsercitazioneGruppo2/_apis/build/status/Esercizio3/Esercizio%203%20HTML%20webApp?branchName=master)](https://dev.azure.com/ITSTechGruppo3/EsercitazioneGruppo2/_build/latest?definitionId=15&branchName=master)
+
+
 | Language | Platform | Author |
 | -------- | --------|--------|
 | HTML |  Azure Web App, Virtual Machine| |
