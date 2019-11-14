@@ -14,7 +14,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: 'dotnet/aspnet/mssqlsdb/*.sln'
+  solution: 'dotnet/aspnet/mssqlsdb/Application/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
