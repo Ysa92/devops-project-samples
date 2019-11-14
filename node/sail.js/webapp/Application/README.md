@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ITSTechGruppo3/EsercitazioneGruppo2/_apis/build/status/Esercizio%204/Esrercizio%204%20Node?branchName=master)](https://dev.azure.com/ITSTechGruppo3/EsercitazioneGruppo2/_build/latest?definitionId=16&branchName=master)
+
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
 | Nodejs | Sailjs | Azure Web App, Virtual Machine| |
